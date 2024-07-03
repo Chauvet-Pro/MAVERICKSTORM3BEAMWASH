@@ -13,12 +13,6 @@
 
 &nbsp;
 
-## Ring Upgrade
-* [Instructions](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH/blob/af2730f7b9f27a19fec772b53df7b8a79677062a/Ring%20Upgrade%20Instructions/Maverick%20Storm%203%20BeamWash_Ring%20Upgrade%20Instructions.pdf)
-* [Software](https://github.com/Chauvet-Pro/MAVERICKSTORM3BEAMWASH/blob/af2730f7b9f27a19fec772b53df7b8a79677062a/Ring%20Upgrade%20Instructions/Ring%20Upgrade%20Software.zip)
-
-&nbsp;
-
 ## USB Software Update Instructions
 1. Power on the product and plug the flash drive into the USB port.
 2.	Once the flash drive has been detected, the message "**USB UPDATE**" will be displayed. Select **<YES>**.  
